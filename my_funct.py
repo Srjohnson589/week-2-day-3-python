@@ -7,4 +7,4 @@ def area(l, w):
     return l*w
 
 def circum(r):
-    return 2*pi()*r
+    return 2*math.pi*r
